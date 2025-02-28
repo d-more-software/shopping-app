@@ -3,6 +3,7 @@ import Home from "./components/pages/Home";
 import Store from "./components/pages/Store";
 import Contact from "./components/pages/Contact";
 import NotFound from "./components/subcomponents/NotFound";
+import { ShoppingCartProvider } from "./context/ShoppingCartContext";
 
 import {
 	createBrowserRouter,
@@ -25,5 +26,9 @@ const router = createBrowserRouter([
 ]);
 
 export default function App() {
-	return <RouterProvider router={router} />;
+	return (
+		<ShoppingCartProvider>
+			<RouterProvider router={router} />;
+		</ShoppingCartProvider>
+	);
 }
