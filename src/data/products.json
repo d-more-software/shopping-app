@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"name": "Fresh Kiwi",
-		"image": "/src/assets/images/kiwi.webp",
+		"image": "/assets/images/kiwi.webp",
 		"price": 1.99,
 		"currency": "$",
 		"category": "Fruits",
@@ -12,7 +12,7 @@
 	{
 		"id": 2,
 		"name": "Yellow Lemon",
-		"image": "/src/assets/images/lemon.webp",
+		"image": "/assets/images/lemon.webp",
 		"price": 0.99,
 		"currency": "$",
 		"category": "Fruits",
@@ -22,7 +22,7 @@
 	{
 		"id": 3,
 		"name": "Red Apple",
-		"image": "/src/assets/images/apple.webp",
+		"image": "/assets/images/apple.webp",
 		"price": 2.5,
 		"currency": "$",
 		"category": "Fruits",
@@ -32,7 +32,7 @@
 	{
 		"id": 4,
 		"name": "Blackberries",
-		"image": "/src/assets/images/blackberries.webp",
+		"image": "/assets/images/blackberries.webp",
 		"price": 3.99,
 		"currency": "$",
 		"category": "Fruits",
@@ -42,7 +42,7 @@
 	{
 		"id": 5,
 		"name": "Pomegranate",
-		"image": "/src/assets/images/pomegranate.webp",
+		"image": "/assets/images/pomegranate.webp",
 		"price": 4.5,
 		"currency": "$",
 		"category": "Fruits",
@@ -52,7 +52,7 @@
 	{
 		"id": 6,
 		"name": "Cherry",
-		"image": "/src/assets/images/cherry.webp",
+		"image": "/assets/images/cherry.webp",
 		"price": 5.99,
 		"currency": "$",
 		"category": "Fruits",
