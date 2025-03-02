@@ -68,7 +68,7 @@ const Footer = () => {
 
 				<hr className="my-3 border-light" />
 				<p className="text-center">
-					© {new Date().getFullYear()} Food Store by David More
+					© {new Date().getFullYear()} FreshMarket made by David More
 				</p>
 			</Container>
 		</footer>
