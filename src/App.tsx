@@ -28,7 +28,7 @@ const router = createBrowserRouter([
 export default function App() {
 	return (
 		<ShoppingCartProvider>
-			<RouterProvider router={router} />;
+			<RouterProvider router={router} />
 		</ShoppingCartProvider>
 	);
 }

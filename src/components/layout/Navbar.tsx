@@ -13,7 +13,7 @@ export default function Navbar() {
 		<NavbarBs sticky="top" bg="dark" data-bs-theme="dark">
 			<Container>
 				<NavbarBs.Brand as={Link} to="/home">
-					Food Store
+                🛒 FreshMarket
 				</NavbarBs.Brand>
 				<Nav className="mr-auto">
 					<Nav.Link as={NavLink} to="/home">
