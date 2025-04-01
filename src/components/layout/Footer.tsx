@@ -41,7 +41,7 @@ const Footer = () => {
 						>
 							Email : dmore.software@gmail.com
 						</a>
-						<p>Adresse : Turquie</p>
+						{/* <p>Adresse : Turquie</p> */}
 						{/* <p>Téléphone : +33 1 23 45 67 89</p> */}
 					</Col>
 
