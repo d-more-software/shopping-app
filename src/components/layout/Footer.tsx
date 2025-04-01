@@ -37,11 +37,11 @@ const Footer = () => {
 								textDecoration: "none",
 								color: "white",
 							}}
-							href="mailto:md.moredavid@protonmail.com"
+							href="mailto:dmore.software@gmail.com"
 						>
-							Email : md.moredavid@protonmail.com
+							Email : dmore.software@gmail.com
 						</a>
-						<p>Adresse : Paris , France</p>
+						<p>Adresse : Turquie</p>
 						{/* <p>Téléphone : +33 1 23 45 67 89</p> */}
 					</Col>
 
@@ -50,7 +50,7 @@ const Footer = () => {
 						<div className="d-flex gap-3">
 							<a
 								style={{ color: "white" }}
-								href="https://www.linkedin.com/in/david-more-software/"
+								href="https://www.linkedin.com/in/david-more-soft/"
 								target="_blank"
 							>
 								<BsLinkedin />
